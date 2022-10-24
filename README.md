@@ -21,8 +21,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=zilladeepak&icon=2&color=7)](https://visitcount.itsvg.in)
+
 
 
 <!---
