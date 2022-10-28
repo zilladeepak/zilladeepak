@@ -5,7 +5,9 @@
 <!--💻 I'm Venkata Naga Sai Mani Deepak Zilla <br>
 📒 Pursuing My Btech 4th Year <br> -->
 <hr>
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Python<br>🌱 I’m currently learning DSA<br>
+🔭 I’m currently working on Web Development<br>
+<!--👯 I’m looking to collaborate on Python<br>-->
+🌱 I’m currently learning DSA<br>
 📫 How to reach me zilladeepak@gmail.com
 
 
