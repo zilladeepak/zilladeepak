@@ -9,7 +9,7 @@
 🔭 I’m currently working on Web Development<br>
 <!--👯 I’m looking to collaborate on Python<br>-->
 🌱 I’m currently learning DSA<br>
-📫 How to reach me zilladeepak@gmail.com
+📫 Reach me at zilladeepak@gmail.com
 
 
 ## 🌐 Socials:
