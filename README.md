@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm ZILLA VENKATA NAGA SAI MANI DEEPAK</h1>
+<h1 align="center">Hi 👋, I'm ZILLA VENKATA NAGA SAI MANI DEEPAK</h1>
 
 📒 Electronics Engineering Graduate from Vel Tech University<br>
 💼 Backend Engineer specializing in AI-powered applications and cloud-native systems<br>
