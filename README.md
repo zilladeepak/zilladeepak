@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm ZILLA VENKATA NAGA SAI MANI DEEPAK</h1>
-<!--<h3 align="center">A passionate frontend developer from India</h3>-->
+<<h1 align="center">Hi 👋, I'm ZILLA VENKATA NAGA SAI MANI DEEPAK</h1>
 
-
-<!--💻 I'm Venkata Naga Sai Mani Deepak Zilla <br>
-📒 Pursuing My Btech 4th Year <br> -->
-<hr>
-📒 An Electronics Student from Veltech University.<br>
-🔭 I’m currently working on Web Development<br>
-<!--👯 I’m looking to collaborate on Python<br>-->
-🌱 I’m currently learning DSA<br>
+📒 Electronics Engineering Graduate from Vel Tech University<br>
+💼 Backend Engineer specializing in AI-powered applications and cloud-native systems<br>
+🔭 Currently working on AI, Generative AI, Microservices, and Backend Engineering<br>
+🌱 Currently learning Data Structures & Algorithms (DSA) and System Design<br>
+☁️ Experienced with AWS, GCP, Django, FastAPI, and PostgreSQL<br>
 📫 Reach me at zilladeepak@gmail.com
 
 
